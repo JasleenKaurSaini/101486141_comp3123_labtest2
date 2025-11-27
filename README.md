@@ -2,7 +2,6 @@
 **Student ID:** 101486141  
 **Course:** Full Stack Development I (COMP 3123)  
 **Lab Test:** Week 13 – Weather App  
-**API Used:** OpenWeatherMap – Current Weather Data API  
 
 ---
 
@@ -43,4 +42,4 @@ The UI also **changes color depending on the weather type**, making it more user
 ## 🔗 API Information
 This app uses the **Current Weather Data API** from OpenWeatherMap.
 
-Example API request:
+Deployment Link: https://101486141-comp3123-labtest2.vercel.app/
