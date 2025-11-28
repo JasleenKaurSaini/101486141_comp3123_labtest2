@@ -43,3 +43,17 @@ The UI also **changes color depending on the weather type**, making it more user
 This app uses the **Current Weather Data API** from OpenWeatherMap.
 
 Deployment Link: https://101486141-comp3123-labtest2.vercel.app/
+
+App Screenshot:
+<img width="1916" height="978" alt="Screenshot 2025-11-27 182738" src="https://github.com/user-attachments/assets/f2e87a67-0017-453c-a37e-192debea251e" />
+<img width="1904" height="974" alt="Screenshot 2025-11-27 183427" src="https://github.com/user-attachments/assets/01357255-6cea-4195-8151-d9e43f0de6ee" />
+<img width="1918" height="975" alt="Screenshot 2025-11-27 183447" src="https://github.com/user-attachments/assets/274403ee-3a24-45e7-922c-dae731fb1c32" />
+
+Postman:
+<img width="1754" height="883" alt="1" src="https://github.com/user-attachments/assets/79fb43de-456a-48c5-83a8-0bfbd790b4a0" />
+<img width="1746" height="890" alt="2" src="https://github.com/user-attachments/assets/fea565e5-cc06-4dbb-bc49-968363248a32" />
+<img width="1769" height="899" alt="3" src="https://github.com/user-attachments/assets/cd712e2f-0f8e-4401-a2fe-8ee52fdcf3b2" />
+
+
+
+
